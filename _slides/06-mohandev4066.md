@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 
-Name: "Mohan Dev"
+Name: "Mohan Dev..."
 ---
 
 Caption here
